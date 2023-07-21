@@ -1,4 +1,9 @@
-# Password Generator Starter Code
+As a teen and now student I spent majority of my day on my phone and computer. 
+Which also means that i have to have many diffrent passwords and its kinda difficult to think of so many random ones epcially on the spot. So this week ! created a webpage for you that will help generate random passwords. 
+While I was completing this assignment I learned  lot about problem solving and debugging. 
+I did end up finishing it in one day which was why theres not many commits... hope you find this as helpful as I have! THank you! 
+
+Password Generator Starter Code
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
